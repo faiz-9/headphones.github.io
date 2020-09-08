@@ -5,7 +5,7 @@
 }
 
 .section{
-	background-image:url("images/malte-wingen-381988-1920x1280.jpg");
+	background-image:url("malte-wingen-381988-1920x1280.jpg");
 	background-size: cover;
 	background-position: center right;
 	background-attachment: scroll;
@@ -120,18 +120,18 @@
 }
 
  .card-img-div1{
-    background: url("images/03.jpg") center center/cover;
+    background: url("03.jpg") center center/cover;
     height:230px;
     width:100%;
 }
 
  .card-img-div2{
-    background: url("images/04.jpg") center center/cover;
+    background: url("04.jpg") center center/cover;
     height:230px;
     width:100%;
 }
  .card-img-div3{
-    background: url("images/05.jpg") center center/cover;
+    background: url("05.jpg") center center/cover;
     height:230px;
     width:100%;
 }
@@ -177,7 +177,7 @@
 
 
 #img1,#img2,#img3,#img4{
-	background-image:url("images/gallery00.jpg");
+	background-image:url("gallery00.jpg");
 	background-size:cover;
 	width:24%;
 	height:180px;
@@ -185,15 +185,15 @@
 }
 
 #img2{
-	background-image:url("images/malte-wingen-381988-1920x1280-800x533.jpg");
+	background-image:url("malte-wingen-381988-1920x1280-800x533.jpg");
 }
 
 #img3{
-	background-image:url("images/gallery02.jpg");
+	background-image:url("gallery02.jpg");
 }
 
 #img4{
-	background-image:url("images/malte-wingen-382148-1920x1280.jpg");
+	background-image:url("malte-wingen-382148-1920x1280.jpg");
 }
 
 
@@ -204,7 +204,7 @@
 
 
 #img-da,#img-db,#img-dc,#img-dd{
-	background-image:url("images/gallery02.jpg");
+	background-image:url("gallery02.jpg");
 	background-size:cover;
 	width:24%;
 	height:180px;
@@ -213,15 +213,15 @@
 
 
 #img-db{
-	background-image:url("images/gallery00.jpg");
+	background-image:url("gallery00.jpg");
 }
 
 #img-dc{
-background-image:url("images/malte-wingen-382148-1920x1280.jpg");
+background-image:url("malte-wingen-382148-1920x1280.jpg");
 }
 
 #img-dd{
-background-image:url("images/malte-wingen-381988-1920x1280-800x533.jpg");
+background-image:url("malte-wingen-381988-1920x1280-800x533.jpg");
 }
 
 .images-down{
